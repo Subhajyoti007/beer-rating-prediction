@@ -44,7 +44,7 @@ To run this project, ensure that Python and the necessary libraries are installe
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/beer-rating-prediction.git
+   git clone https://github.com/subhajyoti007/beer-rating-prediction.git
    cd beer-rating-prediction
    ```
 
